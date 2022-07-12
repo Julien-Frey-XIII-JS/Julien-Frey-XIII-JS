@@ -6,7 +6,7 @@
 
 Actually, i work as a freelancer but also under contract. I am open to all proposals.
 
-- 🌱 I’m currently learning **Laravel methods and I start Python to create API and models for AI**
+- 🌱 I’m currently learning **Laravel methods**
 
 - 📫 How to reach me **www.linkedin.com/in/julien-frey-fullstack**
 
