@@ -6,7 +6,7 @@
 
 Actually, i work as a freelancer but also under contract. I am open to all proposals.
 
-- 🌱 I’m currently learning **Laravel methods**
+- 🌱 I’m currently learning **JAVA**
 
 - 📫 How to reach me **www.linkedin.com/in/julien-frey-fullstack**
 
