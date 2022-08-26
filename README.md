@@ -4,11 +4,12 @@
 <h3 align="center">I really love fullstack code and i work hard for up my level day by day
  </h3>
 
-Actually, i work as a freelancer but also under contract. I am open to all proposals.
+Actually, I am open to all proposals.
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 Currently, I code frontend projects in **React**, **Vue.js 3** and **Ionic** and backend with **Node.js** and **express.js**. I'm learning **java** in secondary project 
 
 - 📫 How to reach me **www.linkedin.com/in/julien-frey-fullstack**
+- My portfolio https://portfolio-julien-frey.surge.sh/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
