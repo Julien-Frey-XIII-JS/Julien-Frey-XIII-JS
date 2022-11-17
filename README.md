@@ -6,7 +6,7 @@
 
 Actually, I am open to all proposals.
 
-- 🌱 Currently, I code fullstack projects in **JAVA**, **Angular**.
+- 🌱 Currently, I learn to code fullstack projects in **JAVA**, **Angular**.
 - 📫 How to reach me **www.linkedin.com/in/julien-frey-fullstack**
 - My portfolio https://portfolio-julien-frey.surge.sh/
 
